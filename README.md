@@ -1,5 +1,3 @@
-# Substantic
-
 We are researchers, developers and teachers in distributed and HPC computing, modelling and algorithms, with strong backgrounds in apllied computer science research and projects.
 
 ## Rain
