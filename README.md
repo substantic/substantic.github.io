@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Substantic
 
-You can use the [editor on GitHub](https://github.com/substantic/substantic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are researchers, developers and teachers in distributed and HPC computing, modelling and algorithms, with strong backgrounds in apllied computer science research and projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Rain
 
-### Markdown
+[Rain](http://rain.readthedocs.io/) is our contribution to the opensource HPC community; a distributed computing framework that is simple to use and deploy, yet powerful and scalable for huge workloads, written in [Rust](https://www.rust-lang.org/) for safety and efficiency. Get it at [github](https://github.com/substantic/rain/) or take a look at the [guidebook](http://rain.readthedocs.io/). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Posts and news
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Members
 
-1. Numbered
-2. List
+Stanislav Böhm [[Linked In]](https://www.linkedin.com/in/stanislav-b%C3%B6hm-99740011b/)
 
-**Bold** and _Italic_ and `Code` text
+Vojtěch Címa [[Linked In]](https://www.linkedin.com/in/vojt%C4%9Bch-cima-b32a7b41/)
 
-[Link](url) and ![Image](src)
-```
+Tomáš Gavenčiak [[Homepage]](https://gavento.ucw.cz/) [[Linked In]](https://www.linkedin.com/in/gavento/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/substantic/substantic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+info@substantic.net
