@@ -3,7 +3,7 @@ title: Substantic
 layout: post
 ---
 
-We are researchers, developers and teachers in distributed computing, modelling and algorithms, with strong backgrounds in apllied computer science research and projects.
+We are researchers, developers, and teachers in distributed computing, modeling and algorithms, with strong backgrounds in applied computer science research and projects.
 
 ## Rain
 
