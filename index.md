@@ -23,7 +23,7 @@ We are researchers, developers, and teachers in distributed computing, modeling 
 
   * Stanislav Böhm [[GitHub]](https://github.com/spirali) [[Linked In]](https://www.linkedin.com/in/stanislav-b%C3%B6hm-99740011b/)
 
-  * Vojtěch Cima [[Linked In]](https://www.linkedin.com/in/vojt%C4%9Bch-cima-b32a7b41/)
+  * Vojtěch Cima [[GitHub]](https://github.com/vojtechcima) [[Linked In]](https://www.linkedin.com/in/vojt%C4%9Bch-cima-b32a7b41/)
 
   * Tomáš Gavenčiak [[Homepage]](https://gavento.ucw.cz/) [[Linked In]](https://www.linkedin.com/in/gavento/)
 
