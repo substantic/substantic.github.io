@@ -4,3 +4,4 @@ plugins:
 remote_theme: chesterhow/tale
 title: Substantic
 description: group
+exclude: [ruby]
