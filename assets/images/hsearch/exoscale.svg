@@ -14,7 +14,7 @@
    height="380"
    id="svg4700"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 640 380"
    sodipodi:docname="exoscale.svg">
   <defs
@@ -424,10 +424,10 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-width="1680"
+     inkscape:window-height="939"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -438,7 +438,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -471,7 +471,7 @@
        x="451.04785"
        y="209.22246"
        id="text1684"><tspan
-         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px"
+         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          sodipodi:role="line"
          id="tspan1682"
          x="451.04785"
@@ -491,7 +491,7 @@
        x="451.04785"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57077599px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#1c2224;fill-opacity:1;stroke:none;stroke-width:1.04756463px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px"
+         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="250.2245"
          x="451.04785"
          id="tspan1688"
@@ -515,11 +515,11 @@
          x="253.54382"
          id="tspan9527"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:1.04756463px;">Rain</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:1.04756463px">Rain</tspan><tspan
          y="240.75439"
          x="253.54382"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:1.04756463px;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
          id="tspan4815">Server</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.17964554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -558,11 +558,11 @@
          x="372.46878"
          id="tspan9459"
          sodipodi:role="line"
-         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;">Rain</tspan><tspan
+         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Rain</tspan><tspan
          y="240.82646"
          x="372.46878"
          sodipodi:role="line"
-         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;"
+         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan4817">Governor</tspan></text>
     <rect
        rx="4.5890894"
@@ -579,12 +579,12 @@
        x="100.35136"
        y="218.60106"
        id="text1700"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5912838px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5912838px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
          sodipodi:role="line"
          id="tspan1698"
          x="100.35136"
          y="218.60106">MNIST</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5912838px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5912838px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
          sodipodi:role="line"
          x="100.35136"
          y="239.34016"
@@ -623,7 +623,7 @@
          x="451.04785"
          id="tspan1708"
          sodipodi:role="line"
-         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px">Task runner</tspan></text>
+         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Task runner</tspan></text>
     <rect
        rx="4.5890894"
        ry="4.5890894"
@@ -643,7 +643,7 @@
          id="tspan1714"
          x="451.04785"
          y="341.44125"
-         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px">Task runner</tspan></text>
+         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Task runner</tspan></text>
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -689,7 +689,7 @@
        x="451.04785"
        y="391.65598"
        id="text1738"><tspan
-         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px"
+         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          sodipodi:role="line"
          id="tspan1736"
          x="451.04785"
@@ -709,7 +709,7 @@
        x="451.04785"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57077599px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#1c2224;fill-opacity:1;stroke:none;stroke-width:1.04756463px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px"
+         style="font-size:13.18104076px;line-height:1.25;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="432.65802"
          x="451.04785"
          id="tspan1742"
@@ -810,13 +810,13 @@
        x="372.46878"
        y="311.30414"
        id="text4823"><tspan
-         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
+         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          sodipodi:role="line"
          id="tspan4819"
          x="372.46878"
          y="311.30414">Rain</tspan><tspan
          id="tspan4821"
-         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
+         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          sodipodi:role="line"
          x="372.46878"
          y="331.30414">Governor</tspan></text>
@@ -830,11 +830,11 @@
          x="372.46878"
          id="tspan4825"
          sodipodi:role="line"
-         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px">Rain</tspan><tspan
+         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Rain</tspan><tspan
          y="422.5209"
          x="372.46878"
          sodipodi:role="line"
-         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px"
+         style="font-size:16px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.04756463px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan4827">Governor</tspan></text>
   </g>
   <style
